@@ -2,4 +2,4 @@
 
 <h2 align="center">Link da página: https://www.youtube.com/watch?v=BRNV5Ngp7IE</h2>
 
-![img](img/logo.png)
+![img](img/logo2.png)
